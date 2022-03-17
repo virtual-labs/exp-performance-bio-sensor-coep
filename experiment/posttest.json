@@ -2,38 +2,64 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The Pulse",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "varies in different parts of the body",
+        "b": "indicates how well the cardiovascular system is working",
+        "c": "indicates how well the tissue absorbs oxygen",
+		"d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": " The average pulse rate for an infant is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "100 to 120 beats per minute",
+        "b": "80 to 160 beats per minute",
+        "c": "80 to 100 beats per minute",
+		"d": "120 to 160 beats per minute"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Pulse monitor uses",
+      "answers": {
+        "a": "Red LED",
+        "b": "IR LED",
+        "c": "Both red and IR LED",
+		"d": "None of these"
       },
+     
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Following detector cannot be used to measure light output of an LED" : {
+        "a": "LDR",
+        "b": "photovoltaic cell",
+        "c": "zener diode",
+		"d": "None of these"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " Which one of the factors listed below does not affect the pulse rate?",
+      "answers": {
+        "a": " Food",
+        "b": " Age",
+        "c": "Stress/Exercise",
+		"d": "None of these"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
 }
+

@@ -2,38 +2,65 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Emission of light in an LED is due to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "generation of electromagnetic radiation",
+        "b": "conversion of heat energy into light energy",
+        "c": "the photovoltaic effect",
+		"d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The conduction in photoelectric devices can be controlled by",
+      "answers": {
+        "a": "an external source of electric supply",
+        "b": "photo bombardment",
+        "c": "photo generated electron hole pairs",
+		"d": "None of these"
       },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In photo transistor the base current is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "inversely proportional to light",
+        "b": "set by a bias voltage",
+        "c": "directly proportional to light",
+		"d": "directly and inversly proportional to light"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+    {
+      "question": "Radiation emitted by an LED can be seen in the", 
+	  "answers":{
+        "a": "visible spectrum",
+        "b": "visible as well as the infrared region",
+        "c": "infrared region",
+		"d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The voltage drop across an LED is",
+      "answers": {
+        "a": "5 to 7 V",
+        "b": "0.5 to 0.7 V",
+        "c": "2.2 to 5 V",
+		"d": "1.5 to 2.2 V"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
   ]
 }
+
