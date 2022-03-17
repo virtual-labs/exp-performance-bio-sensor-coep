@@ -38,7 +38,8 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Following detector cannot be used to measure light output of an LED" : {
+      "question": "Following detector cannot be used to measure light output of an LED",
+	  "answers" : {
         "a": "LDR",
         "b": "photovoltaic cell",
         "c": "zener diode",
