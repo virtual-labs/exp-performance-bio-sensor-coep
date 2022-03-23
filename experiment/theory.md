@@ -1,8 +1,8 @@
 ### Prerequisite
 Before performing this experiment, student must have knowledge about
-1.   Working of a typical diode and LED
-2.   Light spectrum
-3.   Effect of various factors that affect the light output of an LED, e.g. temperature, wavelength, etc.
+1. Working of a typical diode and LED
+2. Light spectrum
+3. Effect of various factors that affect the light output of an LED, e.g. temperature, wavelength, etc.
 
 #### *What is a pulse rate?*
 Pulse is the rate at which human heart beats. Pulse is also commonly called Heart Rate, which is the number of times the heart beats each minute (bpm). As the heart pumps blood through human body, one can feel a pulse in the blood vessels close to the skin's surface, such as wrist, neck, or upper arm. Counting pulse rate is a simple way to find out how fast the heart is beating. However, the rhythm and strength of the heartbeat can also be noted, as well as whether the blood vessel feels hard or soft. Changes in human heart rate or rhythm, a weak pulse, or a hard blood vessel may be caused by heart disease or another problem. One can check the pulse, the first thing in the morning, just after waking up but before geting out of bed. This is called a resting pulse. The pulse rate can be measured by counting the beats in a set period of time (at least 15 to 20 seconds) and multiplying that number to get the number of beats per minute. Our pulse changes from minute to minute. It will be faster when one exercises, have a fever, or is under stress. It will be slower at resting condition.
